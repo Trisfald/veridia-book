@@ -13,7 +13,3 @@ Veridia is also the setting of the videogame [Veridia Tactics](https://trisfald.
 * [Part II: Organizations](Organizations.md)
 * [Glossary](Glossary.md)
 * [Timeline](Timeline.md)
-
----
-
-*Version 1.0.0*
