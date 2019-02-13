@@ -10,7 +10,7 @@ Veridia is also the setting of the videogame [Veridia Tactics](https://trisfald.
 Veridia is not a novel. Thus, you won't find an overarching story and recurrent characters. It is, instead, the collection of facts and events that made the history of a world and its people.\
 While we recommend following the book's structure, the chapters can be read in any order.
 
-##### You should read Veridia if:
+#### You should read Veridia if:
 * You are searching for a mid-low magic fantasy setting for a tabletop game
 * You need a setting to make your own game or novel
 * You played Veridia Tactics and want to know more about the lore
